@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Game\Test\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="41fb2a2cff0d018e70f20975c18b8d3d271caa14">
+        <dex dex="F:\Game\Test\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_95146b9b44b06c49d894cbfbe421fe17d3efd71d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sourav\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.1\18554775a4fb747d360da5838298aafbb49bf13a\gdx-backend-android-1.9.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="18554775a4fb747d360da5838298aafbb49bf13a">
+        <dex dex="F:\Game\Test\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-backend-android-1.9.1_4981bdbb09ba8aad8c3d99132c0a8fa797b5d656\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sourav\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.1\efc80b7e8a239404fdcb9816c9d3bad168e148c2\gdx-box2d-1.9.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="efc80b7e8a239404fdcb9816c9d3bad168e148c2">
+        <dex dex="F:\Game\Test\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-box2d-1.9.1_f04fa8501811bf76bfa7882de8e15c49194add7a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sourav\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.1\41e844a4849872fdb9c33f3f2790e356f907f491\gdx-1.9.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="41e844a4849872fdb9c33f3f2790e356f907f491">
+        <dex dex="F:\Game\Test\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-1.9.1_3e9f9729838342f529f88cc19ea8ae7ecf230891\classes.dex" />
+    </item>
+    <item
+        jar="F:\Game\Test\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c3a52d17b5ce8acee29a463ad1e50aea0c09c53d">
+        <dex dex="F:\Game\Test\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cc1617827e567c41bc5898d0bb0ec536e5abea58\classes.dex" />
+    </item>
+
+</items>
